@@ -12,6 +12,8 @@ canonifyURLs = true
 defaultContentLanguage = 'en'
 ## Put default language in subdirectory
 defaultContentLanguageInSubdir = false
+## Use sections for main menu
+sectionPagesMenu = 'main'
 
 [params]
     ## Site title
