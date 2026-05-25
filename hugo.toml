@@ -87,15 +87,20 @@ sectionPagesMenu = 'main'
         ## Use sans-serif fonts as default
         sfdefault = false
         ## Show colophon section (including QR code)
-        colophon = true
+        colophon = false
         ## disable redaction history
-        disableHistory = false
+        disableHistory = true
         ## Show related content
-        related = true
+        related = false
         ## override maximum series/related post count
         # RelatedLimit = 5
         ## Show share buttons
-        share = true
+        share = false
+
+[[menu.footer]]
+    name = "Instagram"
+    url = "https://www.instagram.com/_gerardo_alcazar_"
+    weight = 1
 
     ## Search configuration
     [params.search]
