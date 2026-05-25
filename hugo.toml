@@ -1,0 +1,4 @@
+baseURL = 'https://gerardo-alcazar.github.io/blog/'
+locale = 'es-mx'
+title = 'El Blog de Gerardo'
+theme = "hugo-brewm"
