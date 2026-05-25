@@ -4,5 +4,5 @@ draft = false
 title = 'Pádel'
 +++
 
+concocí al pádel por septiembre de 2025
 
-A mi me gusta el padel porque es chido.
