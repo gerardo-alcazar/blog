@@ -9,7 +9,7 @@ enableGitInfo = true
 ## Convert all URLs to absolute URLs
 canonifyURLs = true
 ## Default language for content
-defaultContentLanguage = 'es'
+defaultContentLanguage = 'en'
 ## Put default language in subdirectory
 defaultContentLanguageInSubdir = false
 
