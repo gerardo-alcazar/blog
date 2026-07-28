@@ -3,6 +3,8 @@ date = '2026-07-27'
 draft = false
 title = 'Uno'
 author = 'Gerardo Alcazar'
+cover = '/images/IMG_7202.HEIC'
+alt = 'Foto del viaje a Italia'
 +++
 
 Es la primera vez que hago un viaje a otro país, lo cual es chistoso porque a la vez también visite otro continente y la gente hablaba un idioma diferente al mio, todas las personas son diferentes, hacia tanta gente de otros lados que solo observaba a cada uno, a los hombres, a los niños, a las familias. 
@@ -11,3 +13,5 @@ Por otra parte también me di cuenta de que realmente el mundo es una cagada, ha
 Estos últimos meses me he estado informando más sobre todo este tipo de injusticias, no digo que esto sea un tema que me atrape al cien por ciento, pero, me llama la atención poder saber más porque las injusticias hacen un sentimiento en mi de rabia y eso hace que me llame más la atención, creo que ese tipo de cosas me hace una mejor persona y no es que quiera pasar de ser una mala persona a una buena, sino, que muchas de las personas de las que me rodeo en mi vida desde hace algunos años siento que no entienden esto y hay muchos ideales, acciones y actitudes que nunca han empatizado conmigo, no es que yo sea la persona con el pensamiento mas puro, porque no, pero sólo no quiero quedarme en una nube de ideas que no deberían de ser y poder también compartir este tipo de cosas con las demás personas para que ellos también puedan sentirte interesados y poder ver lo injusto que pueden ser algunas cosas y hacer conciencia.
 
 Por cierto, volvimos a ir al mismo restaurante a los dos días, mi papá esperaba volver a a ver al mismo mesero que quiero recalcar que nos atendió muy bien, pero estaba otro, no recuerdo exactamente de dónde venia él pero también le preguntó lo mismo y también tuvieron una conversación similar.
+
+{{< figure src="/images/IMG_7202.HEIC" caption="Viaje a Italia" >}}
