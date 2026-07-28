@@ -3,7 +3,7 @@ date = '2026-07-27'
 draft = false
 title = 'Uno'
 author = 'Gerardo Alcazar'
-cover = '/images/IMG_7202.HEIC'
+cover = '/images/IMG_7202.jpg'
 alt = 'Foto del viaje a Italia'
 +++
 
@@ -14,4 +14,4 @@ Estos últimos meses me he estado informando más sobre todo este tipo de injust
 
 Por cierto, volvimos a ir al mismo restaurante a los dos días, mi papá esperaba volver a a ver al mismo mesero que quiero recalcar que nos atendió muy bien, pero estaba otro, no recuerdo exactamente de dónde venia él pero también le preguntó lo mismo y también tuvieron una conversación similar.
 
-{{< figure src="/images/IMG_7202.HEIC" caption="Viaje a Italia" >}}
+{{< figure src="/images/IMG_7202.jpg" caption="Viaje a Italia" >}}
