@@ -4,7 +4,6 @@ draft = false
 title = 'Uno'
 description = 'Mi primera experiencia viajando a otro país, conviviendo con gente de diferentes culturas y reflexionando sobre las injusticias globales.'
 author = 'Gerardo Alcazar'
-categories = ['experiencias']
 +++
 
 Es la primera vez que hago un viaje a otro país, lo cual es chistoso porque a la vez también visite otro continente y la gente hablaba un idioma diferente al mio, todas las personas son diferentes, hacia tanta gente de otros lados que solo observaba a cada uno, a los hombres, a los niños, a las familias.
