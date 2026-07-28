@@ -4,7 +4,6 @@ draft = false
 title = 'Uno'
 description = 'Mi primera experiencia viajando a otro país, conviviendo con gente de diferentes culturas y reflexionando sobre las injusticias globales.'
 author = 'Gerardo Alcazar'
-tags = ['viajes', 'Italia', 'reflexión', 'injusticias']
 categories = ['experiencias']
 +++
 
