@@ -13,3 +13,5 @@ Una vez que empiezas a vivir momentos, intercambiar palabras y no quieres dejar 
 La calidez de un abrazo y un beso en la mejilla puede encender fuego en ti, se siente el tacto de esa persona en todo tu cuerpo como si se expandiera poco a poco como una gota de pintura en agua quieta, te hace solo sentir eso, no puedes pensar ni sentir otra cosa más que eso, un beso cálido y amoroso.
 
 El amor a veces nos obliga a hacer cosas que nunca habíamos vivido, está bien, al final de cuentas, hacer las cosas por amor nunca será malo, creo que serán las acciones más sinceras que alguien puede darle a alguien.
+
+![Imagen](/IMG_8489.jpg)
