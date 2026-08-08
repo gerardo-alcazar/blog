@@ -2,6 +2,7 @@
 date = '2026-08-07T21:50:29-06:00'
 draft = false
 title = 'Dos'
+cover = '/IMG_8489.jpg'
 +++
 
 Hay personas que llegan a tu vida cuando menos lo esperas o cuando menos lo quieres, cuando menos las buscas y tal vez cuando menos las necesitas. Esto cambia en ese preciso momento en que empiezan a intercambiar ideas, en el momento en que ves eso que tanto te gusta de esa persona, o más bien, eso que no sabías que te gustaba, o tal vez solo te gusta en ella.
