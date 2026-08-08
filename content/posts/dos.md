@@ -10,7 +10,7 @@ Por otro lado, hay cosas que pasan que no tienen explicación, simplemente pasan
 
 Una vez que empiezas a vivir momentos, intercambiar palabras y no quieres dejar de compartir cosas, creo que es un momento que no tiene explicación sobre lo que se siente dentro de ti, es un momento en el que solo te importa seguir platicando, una cosa saca otra y esa conversación finita no quieres que termine, solo quieres que siga y siga, lo bonito de todo esto es compartir mutuamente, el compartir llevará al amor a la inmortalidad.
 
-La calidez de un abrazo y un beso en la mejilla puede encender fuego en ti, se siente el tacto de esa persona en todo tu cuerpo como si se expandiera poco a poco como una gota de pintura en agua quieta, te hace solo sentir eso, no puedes pensar ni sentir otra cosa más que eso, un beso cálido y amoroso.
+La calidez de un abrazo y un beso en la mejilla puede encender fuego en ti, se siente el tacto de esa persona en todo tu cuerpo como si se expandiera poco a poco una gota de pintura en agua quieta, te hace solo sentir eso, no puedes pensar ni sentir otra cosa más que eso, un beso cálido y amoroso.
 
 El amor a veces nos obliga a hacer cosas que nunca habíamos vivido, está bien, al final de cuentas, hacer las cosas por amor nunca será malo, creo que serán las acciones más sinceras que alguien puede darle a alguien.
 
